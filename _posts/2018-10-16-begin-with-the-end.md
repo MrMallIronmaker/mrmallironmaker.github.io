@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Begin with the End in Mind: Why Write?
+title: "Begin with the End in Mind: Why Write?"
 ---
 Academic communication is a difficult yet integral part of any researcher's work.
 I have begun this blog to write regularly, helping me become a better communicator, and to spark discussion within the augmented reality research community - first, at Stanford, and then at large.
