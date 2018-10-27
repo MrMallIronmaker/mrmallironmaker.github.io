@@ -1,4 +1,4 @@
-- Welch's three-step process for realism
+- Welch's three-step process for realism - connecting real and virtual worlds - perhaps put in contrast with Steptoe's make-everyting-virtual bit
 - Summoning a marker feels like magic
 - different outlines of my introduction
 - why fields bicker... what HCI has to offer social science
@@ -8,6 +8,9 @@
 - why does beat saber work? height + flinch + motion
 - taking monitors off my desk opened up a lot of space! AR is for non-physicality and ambience. There are plenty of things that need only be seen! How well have we done with paper...
 - when I talk to people with the headset on, they often don't respond as quickly, as if they don't know I'm talking to them. that makes sense.
+- bad physics = cognitiveload [credit to Neeraj]
+- what is better in AR v. VR?
+- which has more cognitive load, real life or minimalist VR? - maybe loop in the RH breathVR team?
 
 
 
