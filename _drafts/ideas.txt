@@ -11,6 +11,8 @@
 - bad physics = cognitiveload [credit to Neeraj]
 - what is better in AR v. VR?
 - which has more cognitive load, real life or minimalist VR? - maybe loop in the RH breathVR team?
-
+- weird display exploration: display in 1 eye, not the other.
+- weird phrasing: dude on MOR asked someone if they had "two people in your head" <- hearing another person in RL in someone's VR body
+- strong frustration when disconnected - I felt like I lost him!
 
 
